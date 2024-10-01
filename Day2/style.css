@@ -1,4 +1,4 @@
-.films{
+.fitems{
   width: 200px;
   height: 200px;
   margin: 20px;
@@ -16,5 +16,5 @@
   justify-content: center;
 }
 #item1{
-  order: 3;
+  order: 2;
 }
